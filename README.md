@@ -1,0 +1,3 @@
+# Vida Google Home Setup Integration
+
+This integration provides a simple way for Vida users to allow their Google Assistant devices to send their commands locally to Home Assistant. This integration can be used after the user has finished the steps highlighted [here](https://www.home-assistant.io/integrations/google_assistant/) and they have obtained a project_id and a service_account.json. After that, this integration will provide the users with a UI to update the configuration.yaml and store the service_account.json in the right spot.

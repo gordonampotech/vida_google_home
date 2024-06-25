@@ -1,0 +1,11 @@
+{
+  "domain": "vida_google_home",
+  "name": "Vida Google Home",
+  "codeowners": ["@gordonampotech"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/detailed_hello_world_push",
+  "homekit": {},
+  "requirements": [],
+  "version": "0.1.0"
+}

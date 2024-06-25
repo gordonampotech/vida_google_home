@@ -1,0 +1,28 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Main Configuration",
+        "description": "Input the credentials for Vida Google Home.",
+        "data": {
+          "project_id": "Project ID",
+          "json_file": "JSON File"
+        }
+      }
+    },
+    "error": {
+      "base": {
+        "unknown": "Unknown error occurred. Please try again.",
+        "file_error": "Error while saving the file. Please check the file and try again."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Update Google Home Configuration",
+        "description": "Update the settings for the Google Home integration."
+      }
+    }
+  }
+}
